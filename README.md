@@ -67,5 +67,6 @@ The repository documents spatial accessibility methods and equity-focused GIS an
 ### Recognition
 This project was selected for inclusion in the Student Final Project Portfolio curated by the course instructor, highlighting exemplary student work from the course.
 
-**🔗 Portfolio link:** https://population-health.github.io/GGR322/students/Arunima-Dey2.html
+**Course portfolio (instructor GitHub):** https://population-health.github.io/GGR322/Final_portfolio.html
+**Portfolio link:** https://population-health.github.io/GGR322/students/Arunima-Dey2.html
 
