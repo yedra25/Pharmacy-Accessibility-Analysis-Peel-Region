@@ -63,3 +63,9 @@ Pharmacy capacity data only includes employee counts, not service hours or load
 
 This project was completed as part of GGR322 at the University of Toronto Mississauga.
 The repository documents spatial accessibility methods and equity-focused GIS analysis.
+
+### Recognition
+This project was selected for inclusion in the Student Final Project Portfolio curated by the course instructor, highlighting exemplary student work from the course.
+
+🔗 Portfolio link: https://population-health.github.io/GGR322/students/Arunima-Dey2.html
+
